@@ -3,8 +3,7 @@
     padding: 0;
     box-sizing:border-box;
 }
-
-body{
+body {
     margin: 0;
     padding: 20px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -72,4 +71,5 @@ button:hover {
     font-weight: bold;
 
 }
+
 
